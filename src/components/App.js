@@ -40,7 +40,7 @@ class App extends Component {
                   LEARN BLOCKCHAIN <u><b>NOW! </b></u>
                 </a>
               </div>
-            </main>
+            </main> 
           </div>
         </div>
       </div>
